@@ -110,7 +110,7 @@ button:focus {
 a:hover {
   text-decoration: none;
   color: #d05165; }
-
+ 
 .btn-group-lg > .btn, .btn-lg {
   padding: 1rem; }
 
@@ -135,12 +135,12 @@ a:hover {
   background: transparent; }
 
 .btn-link {
-  color: #f15e75; }
+  color: #7895B2; }
   .btn-link:hover {
     text-decoration: none; }
 
 .color-primary {
-  color: #f15e75; }
+  color: #7895B2; }
 
 /* Colours */
 .text-orange {
@@ -153,7 +153,7 @@ a:hover {
   color: #FC665F; }
 
 a {
-  color: #f15e75; }
+  color: #7895B2; }
 
 .fs-40 {
   font-size: 40px; }
@@ -418,12 +418,12 @@ footer {
   height: 38px;
   font-weight: 300; }
   .form-control:focus {
-    border-color: #f15e75;
+    border-color: #7895B2;
     box-shadow: 0 0 0 0.2rem rgba(253, 101, 90, 0.25); }
 
 #gtco-contact-form form label.error {
   margin-bottom: 15px;
-  color: #f15e75;
+  color: #7895B2;
   font-size: 1.4rem; }
 
 .form-control::-webkit-input-placeholder {
