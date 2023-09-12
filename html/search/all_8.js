@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['ierr_118',['ierr',['../namespaceglobals.html#a4e1141717d6c313014fb99b22aafe33c',1,'globals']]],
+  ['imposeplanewind_119',['imposeplanewind',['../namespacewinds.html#adff2140bd8937db85aec16a30d9e0a57',1,'winds']]],
+  ['imposesphericalwind_120',['imposesphericalwind',['../namespacewinds.html#a1276aa1a90367aa4f6b067e7d67d8a39',1,'winds']]],
+  ['initflow_121',['initflow',['../initflow_8f90.html#ac1873b4e8921efd0b5dd776c8fabfb85',1,'initflow.f90']]],
+  ['initflow_2ef90_122',['initflow.f90',['../initflow_8f90.html',1,'']]],
+  ['initmain_123',['initmain',['../initmain_8f90.html#a62897092a7116701a3c1785060d6bd74',1,'initmain.f90']]],
+  ['initmain_2ef90_124',['initmain.f90',['../initmain_8f90.html',1,'']]],
+  ['ion_5fthres_125',['ion_thres',['../namespaceparameters.html#a8989fb2c3e73fcb8e0c6635af777850f',1,'parameters']]],
+  ['ism_5fbx_126',['ism_bx',['../namespaceparameters.html#adc92e5a8a1d48e6f54a223a5b98e9972',1,'parameters']]],
+  ['ism_5fby_127',['ism_by',['../namespaceparameters.html#adc367fbe1ec796b2a95843e5d9516628',1,'parameters']]],
+  ['ism_5fbz_128',['ism_bz',['../namespaceparameters.html#a109c54b8a3b07e1545f0bce5d6953a26',1,'parameters']]],
+  ['ism_5fdens_129',['ism_dens',['../namespaceparameters.html#a0d4d2c0aba3f2af1270015963061d132',1,'parameters']]],
+  ['ism_5fmetal_130',['ism_metal',['../namespaceparameters.html#a9c219bd1164eeb665b4dfe2863a87568',1,'parameters']]],
+  ['ism_5fmu0_131',['ism_mu0',['../namespaceparameters.html#a3a23b699ad47fa88213307dd991ecbc0',1,'parameters']]],
+  ['ism_5ftemp_132',['ism_temp',['../namespaceparameters.html#a7f0b9f48560299c95c6d010eae31ea76',1,'parameters']]],
+  ['ism_5fvx_133',['ism_vx',['../namespaceparameters.html#a467fdc478da9702c3f2cd1d123ff2e8a',1,'parameters']]],
+  ['ism_5fvy_134',['ism_vy',['../namespaceparameters.html#a883ed47adaca00da9c91f8b9c140325d',1,'parameters']]],
+  ['ism_5fvz_135',['ism_vz',['../namespaceparameters.html#a6e5f16fe2b167d1e7d8c9c02ba85306f',1,'parameters']]],
+  ['it_136',['it',['../namespaceglobals.html#ae77d5245dcabc5420d4a5d404ae8d485',1,'globals']]]
+];

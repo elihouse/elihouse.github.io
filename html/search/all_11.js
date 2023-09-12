@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['siblingcoords_255',['siblingcoords',['../admesh_8f90.html#aa64906d26903b720cb3f6661c21c48f1',1,'admesh.f90']]],
+  ['siblingid_256',['siblingid',['../admesh_8f90.html#a516ea861ac413f558fcc3d29f030ae0a',1,'admesh.f90']]],
+  ['siblings_257',['siblings',['../admesh_8f90.html#aefb084d06b41cc52ecb6c8e240ffc586',1,'admesh.f90']]],
+  ['snr_258',['snr',['../namespacesnr.html',1,'']]],
+  ['snr_2ef90_259',['snr.f90',['../snr_8f90.html',1,'']]],
+  ['snr_5fparams_5ftype_260',['snr_params_type',['../structsnr_1_1snr__params__type.html',1,'snr']]],
+  ['solvekepler_261',['solvekepler',['../namespaceorbits.html#a8af55d6352f97078cfe326a171d07c2e',1,'orbits']]],
+  ['solver_5fhll_262',['solver_hll',['../namespaceconstants.html#a58b01c37c76f22be170d5fb25639fc06',1,'constants']]],
+  ['solver_5fhll1_263',['solver_hll1',['../namespaceconstants.html#a55b498b94c7866608ebeb75cac57d41d',1,'constants']]],
+  ['solver_5fhllc_264',['solver_hllc',['../namespaceconstants.html#a69872c0ea647366e5c5d6cdc1af28295',1,'constants']]],
+  ['solver_5flax_265',['solver_lax',['../namespaceconstants.html#a51365844e4be50d3c50be9649d398316',1,'constants']]],
+  ['solver_5ftype_266',['solver_type',['../namespaceparameters.html#a8ac5e933904da8c299765dedfee22cc2',1,'parameters']]],
+  ['sound_267',['sound',['../hydro_8f90.html#ab728e619fabaa5339726a7506022fd49',1,'hydro.f90']]],
+  ['spherical_5fwind_5ftype_268',['spherical_wind_type',['../structwinds_1_1spherical__wind__type.html',1,'winds']]],
+  ['stamp_269',['stamp',['../namespacetictoc.html#a071cce3081bc62c461ba65c2ef8b13e1',1,'tictoc']]],
+  ['start_5fmark_270',['start_mark',['../namespaceglobals.html#a5a20d623e02db0daccd7f75454e2cf8d',1,'globals']]],
+  ['statetpl_271',['statetpl',['../namespaceparameters.html#ab84f1c96284bbc15f032bbc38755a0f1',1,'parameters']]],
+  ['swapxy_272',['swapxy',['../prims_8f90.html#ab943f29f1385451fbef5c1809312bece',1,'prims.f90']]],
+  ['swapxz_273',['swapxz',['../prims_8f90.html#a81acf562c7962cb3c8b6729a3c65d8ba',1,'prims.f90']]],
+  ['syncblocklists_274',['syncblocklists',['../admesh_8f90.html#a7bae295a3701fad85dc4d74833c0c4e4',1,'admesh.f90']]]
+];
